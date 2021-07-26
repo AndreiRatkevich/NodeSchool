@@ -1,0 +1,8 @@
+/.idea
+/.vscode
+/how-to-npm
+/node_modules
+package.json
+package-lock.json
+expressworks/node_modules
+NodeSchool.lnk

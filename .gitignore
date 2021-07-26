@@ -5,4 +5,5 @@
 package.json
 package-lock.json
 expressworks/node_modules
+promise-it-wont-hurt/node_modules
 NodeSchool.lnk
